@@ -2,6 +2,8 @@
 
 ## My Stats
 
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikezalik)](https://github.com/mikezalik/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezalik&layout=compact)
 
 <!--
